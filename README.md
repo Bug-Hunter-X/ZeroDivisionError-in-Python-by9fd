@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates a common runtime error: ZeroDivisionError. The `bug.py` file shows the error, while the `bugSolution.py` shows how to gracefully handle it using a try-except block.  This is a great example of how to handle potential errors and prevent unexpected crashes.
